@@ -1,8 +1,8 @@
 #!/usr/bin/env ruby
 
 if ARGV[0].nil?
-  puts "Usage: eggdrop.rb <test> [FLOORS]"
-  puts "       Assumes enough eggs to throw from each floor."
+  puts "Usage: eggdrop.rb (test|FLOORS)"
+  puts "       Assumes enough eggs to throw from each FLOOR."
   exit
 end
 
