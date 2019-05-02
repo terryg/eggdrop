@@ -1,5 +1,5 @@
 # Egg Drop
-A Ruby script to determine the minimum number of drops for the worst case scenario of using a binary search to find the highest safe floor from which an egg survives a drop.
+A Ruby script to determine the minimum number of drops for the worst case scenario of using a binary search to find the highest floor from which an egg survives a drop. In other words, a recursive function to calculate the height of a complete binary tree. Also equal to O(log n)!
 
 ```
 Usage: eggdrop.rb (test|FLOORS)
