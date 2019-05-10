@@ -34,7 +34,7 @@ def test
   puts "Test 16 floors."
   do_test(5, egg_drop(16))
   puts "Test 64 floors."
-  do_test(6, egg_drop(64))
+  do_test(7, egg_drop(64))
   puts "Test 128 floors."
   do_test(8, egg_drop(128))
   puts "Done."
